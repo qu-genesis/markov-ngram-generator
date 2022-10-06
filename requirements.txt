@@ -1,0 +1,6 @@
+numpy
+tweepy
+pytest
+pylint
+black
+configparser
